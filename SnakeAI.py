@@ -133,7 +133,7 @@ def main(Fruit,Snake,cycle):
 
    
     while run:
-        FPS = 60
+        FPS = 1000
 
         clock = pg.time.Clock()
         clock.tick(FPS)
